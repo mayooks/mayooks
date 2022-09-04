@@ -2,6 +2,7 @@
 
 I am keen on upscaling my analytical skills in programming, data visualization, and storytelling using data. Passionate about staying up to date with the latest technology and programming languages.
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayooks"/>
 
 
 - 🤔 I also have a PhD thesis in <a href="https://www.research.manchester.ac.uk/portal/en/theses/microstructural-characterisation-of-type-316-austenitic-stainless-steels-implications-for-corrosion-fatigue-behaviour-in-pwr-primary-coolant(e8e04bc1-1413-4c59-bb04-7dd94bcbc78f).html">corrosion fatigue</a>
